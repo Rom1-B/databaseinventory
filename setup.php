@@ -28,7 +28,7 @@
  * -------------------------------------------------------------------------
  */
 
-define('PLUGIN_DATABASEINVENTORY_VERSION', '1.0.2');
+define('PLUGIN_DATABASEINVENTORY_VERSION', '1.1.0-beta1');
 
 // Minimal GLPI version, inclusive
 define('PLUGIN_DATABASEINVENTORY_MIN_GLPI', '11.0.0');
